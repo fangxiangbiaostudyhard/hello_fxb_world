@@ -1,5 +1,4 @@
 # hello_fxb_world
-feature2
 ## 全网同名：方向标studyhard
 ### 小红书：方向标studyhard
 ### bilibili：方向标studyhard
